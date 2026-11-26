@@ -4,10 +4,10 @@
  width="100%"/>
 </p>
 
-<h1 align="center">Nome do projeto</h1>
+<h1 align="center">Necton Sentinela</h1>
 
 <p align="center">
-  Breve descrição do projeto
+  Plataforma digital voltada ao registro e gerenciamento de GRO e PGR, destinada à área de Segurança do Trabalho.
 </p>
 
 ---
