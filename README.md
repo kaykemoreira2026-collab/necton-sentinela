@@ -44,9 +44,6 @@ utilização em atividades educacionais.
 - Interface digital para gerenciamento de registros.
 - Acesso à plataforma por meio do navegador.
 
-## 🏗️ Arquitetura do sistema
-
-Inserir diagramas e explicar o funcionamento.
 
 ## 📷 Imagem do projeto
 
