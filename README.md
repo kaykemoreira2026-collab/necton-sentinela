@@ -26,18 +26,23 @@ utilização em atividades educacionais.
 
 ## 🎯 Objetivos
 
-- Objetivo principal
-- Problema que o projeto busca solucionar
+- Digitalizar processos relacionados à Segurança do Trabalho.
+- Facilitar o registro de riscos ocupacionais.
+- Auxiliar na organização de informações de GRO e PGR.
+- Apoiar atividades práticas de ensino.
 
 ## 🛠️ Tecnologias utilizadas
 
-Inserir os ícones das tecnologias utilizadas.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/>
+</p>
 
 ## ⚙️ Funcionalidades
 
-- Funcionalidade 1
-- Funcionalidade 2
-- Funcionalidade 3
+- Registro de informações relacionadas ao GRO e PGR.
+- Organização de informações sobre riscos ocupacionais.
+- Interface digital para gerenciamento de registros.
+- Acesso à plataforma por meio do navegador.
 
 ## 🏗️ Arquitetura do sistema
 
@@ -49,17 +54,17 @@ Inserir diagramas e explicar o funcionamento.
   <img src="https://github.com/user-attachments/assets/886a1fd9-ce72-4420-a5c9-eb669976d290"width="40%"/>
 </p>
 
-## 🚀 Demonstração
-
-[ Acessar projeto ](URL_DO_PROJETO)
-
 ## 📂 Estrutura do repositório
 
 Apresentar a organização dos arquivos.
 
 ## 📈 Resultados
 
-Apresentar os resultados obtidos e aprendizados.
+- Desenvolvimento web.
+- Integração entre front-end e back-end.
+- Banco de dados.
+- Organização de informações.
+- Desenvolvimento de soluções para demandas reais.
 
 ## 👨‍💻 Autor
 
