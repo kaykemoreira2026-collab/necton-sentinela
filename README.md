@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="assets/banner.png" width="100%"/>
+  "<img widtalt="Banner Tecnológico Necton Sentinela" src="https://github.com/user-attachments/assets/b20769c2-6d72-4a3f-83b3-2840232c267d
+ width="100%"/>
 </p>
 
 <h1 align="center">Nome do projeto</h1>
@@ -37,7 +38,7 @@ Inserir diagramas e explicar o funcionamento.
 ## 📷 Imagens do projeto
 
 <p align="center">
-  <img src="assets/screenshot.png" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/886a1fd9-ce72-4420-a5c9-eb669976d290"width="40%"/>
 </p>
 
 ## 🚀 Demonstração
