@@ -48,15 +48,13 @@ utilização em atividades educacionais.
 
 Inserir diagramas e explicar o funcionamento.
 
-## 📷 Imagens do projeto
+## 📷 Imagem do projeto
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/886a1fd9-ce72-4420-a5c9-eb669976d290"width="40%"/>
+ 
+  <img width="500" height="250" alt="Captura de tela 2026-11-26 005049" src="https://github.com/user-attachments/assets/803bd547-964e-4417-8ef1-9a06ecea59c6" width="40%"/>
+  
 </p>
-
-## 📂 Estrutura do repositório
-
-Apresentar a organização dos arquivos.
 
 ## 📈 Resultados
 
