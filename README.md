@@ -14,7 +14,15 @@
 
 ## 📌 Sobre o projeto
 
-Descrição e contextualização do projeto.
+O Necton Sentinela é uma plataforma digital desenvolvida
+para auxiliar profissionais e estudantes de Segurança
+do Trabalho no registro e gerenciamento de informações
+relacionadas ao Gerenciamento de Riscos Ocupacionais (GRO)
+e ao Programa de Gerenciamento de Riscos (PGR).
+
+O projeto surgiu a partir de uma demanda de um professor
+da área de Segurança do Trabalho, com proposta de
+utilização em atividades educacionais.
 
 ## 🎯 Objetivos
 
