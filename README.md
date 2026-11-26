@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b20769c2-6d72-4a3f-83b3-2840232c267d
- "width="100%"/>
+<img width="2172" height="724" alt="Banner Tecnológico Necton Sentinela" src="https://github.com/user-attachments/assets/96536d3a-9272-4fcc-97c0-69ce27904023"width="100%" />
+
 </p>
 
 <h1 align="center">Necton Sentinela</h1>
