@@ -34,7 +34,7 @@ utilização em atividades educacionais.
 ## 🛠️ Tecnologias utilizadas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql"/>
 </p>
 
 ## ⚙️ Funcionalidades
