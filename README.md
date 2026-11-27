@@ -65,4 +65,4 @@ utilização em atividades educacionais.
 
 Kayke Moreira de Carvalho
 
-[LinkedIn](URL_DO_LINKEDIN)
+[LinkedIn](https://www.linkedin.com/in/kaykemoreiradc)
